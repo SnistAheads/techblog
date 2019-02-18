@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A Collection of various resources and useful information by [Bharath Sathuri](https://about.me/bharathsathuri/). 
+A Collection of various resources and useful information by [SNIST Aheads](https://snistaheads.github.io/Ocoders). 
 
-![Bharath Sathuri](https://starksources.github.io/myblog/assets/images/bharath.jpeg "SIMHA")
 
 You can request any topic or tutorial by commenting on any page or by contacting through [email](mailto:sathuribharathbrothers1234@gmail.com) or [whatsapp](https://api.whatsapp.com/send?phone=919133430813).
 
