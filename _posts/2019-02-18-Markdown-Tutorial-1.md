@@ -2,7 +2,6 @@
 layout: post
 title: Getting Started with R Markdown
 subtitle: Creating a neat and reproducible record of your code
-date: 2016-11-24 16:00:00
 author: John
 meta: "Rmarkdown"
 tags: markdown
